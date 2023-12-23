@@ -9,7 +9,7 @@ The only difference on this repo is a simple regex change. Please check out the 
 
 ## How to use it:
 
-# Download the released binary:
+### Download the released binary:
 
 1. Go to the Releases page: https://github.com/noteinabottle1/ffn2ao3/releases
 
@@ -38,7 +38,7 @@ The only difference on this repo is a simple regex change. Please check out the 
 [25 May 2023, 18:09:42] New work URL: https://archiveofourown.org/works/47429380
 ```
 
-# Bare bones setup (for now):
+### Bare bones setup (for now):
 
 1. Download this repo (git clone, download as zip, etc)
 
